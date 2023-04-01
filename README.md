@@ -1,4 +1,4 @@
-# Lang_UWP_4
+# Lang_UWP_4 = 언어용 계산기
 
 <b>Page1.xaml</b>
 
